@@ -10,6 +10,6 @@ int result = firstNumber + secondNumber;
 
 Console.WriteLine("Adding {0} and {1}The answer is {2}", firstNumber, secondNumber, result);
 
-//dIFFICULT
+Console.WriteLine("Press any key to exit");
 Console.WriteLine();
 
